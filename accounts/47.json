@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mafiamirror",
+  "private_key_id": "76f601c77839092cf81844ee44913dedab4de8f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGtWBljTbJ3q8B\nZvDr0iMrtBh/QMET0yE8d8r4KjEvcyYCA+K5xwauewbSSqiqf2+CUsDayE3aeCwA\nIRHlB/y1+X6zzY1jDvQ6fMXUOA6lV6goLbfkky9DN+eI77uA5EXyyf+HYiZZuXLH\nklqOpDUt+XeHeEA7A31LeWp+D4Um7uLNNjmXUydKO5G/rt+l7/6j0tJnEEIZM9Ra\ny9AMV6IvSQbIi6yQah+4kubbFI1/krwYERSkFJiSYFv2AdSxIKWQ8hdBW5Wx++O5\nW0VDxdaNeVY7+eD7BF4uqnLdlBb0VcOtnHJHj22IUau1E2ztt4PBh9/hwqha9O0h\nJGJkTwzvAgMBAAECggEAGr7M8743EqLDYWfuo38MNtStu2sG0dlIDvB8xDxBlIZm\nJj1JpgGw14k9mM5tt00hwCPNS2VMfUxRd877rp0NmZy0PhU7o4qeusSSiAbnib+r\npYTJzJ027lA2/MpvrWCMPaqMlzdRvB/m4A/F2o8ljUOXoAdCde75TVBRUhharquZ\n6j130gz1iO02QB6V/Km54VuIir1Qgj8NCJC3r/B5kJrOQ13HfGo+aXXmpjwL4SkH\nV5vBmmDffQNa3reqmU35bwFvuCm902SQa0zrjr0JLDTy6II5mSTkHSv5Qc6uw7fS\nRKlqksbH/QjjpDOvWPVijiP/ucWr/+msRsLiP4UtoQKBgQDh80Rny2T2X7p8p8mS\n4lYLrtlqsHI4SsWFfOrMfdrFEY+cms2FBCPdgiRGNeQj928AXlLNHXV9yM/egu9E\n3vQI36P989oOxcn08TrJJ81U8aO/hLfu3yjuOrEZOOjTOd8grwOKZ6gsO0+VKOgT\nLv0X93o5JWCbF2/yvLn5tNUzcQKBgQDhIqH6rE2gVV6KnxVT3f2JHM8YL6RMvjh2\n/FviXaO89TME8jfYuDEqOGWC88JyJS2sU1oemfcSuP9imjUHxLELpJjstUYmKRml\npq8hXlN2dRY+4g+IMrZIOHZrycKrHvLKrp9txmINccg6cdZUiA8mPPaGYiSmC7hm\nIxVRMflWXwKBgFHuOBu68P01cRXKcZlFYRYTbNr26DPpSP5CcZF9AVr8JysOJv/Y\npHipvCWJXRR9oE5t5XBjAjt+GYIB0GkUv0CId5qaVbONnNGotzxBpn7qsAm+QkPn\nv5vCxHz02dfd4D6lt470T1LantzjXGO4YiXSowsdto4GTZ2jOXyGSdjBAoGADNrL\nYOLBs+vr8AJRV26PcWrBsGHYAcHCu5iBLpWmKb3eYePqqGcr93ss4KNGcPoKd5Jy\nzNiBsQH7IwgnCwCCE2YcjTd0f+1M15aC3WbjYRoiYQjLVj1/BvSiXlkw0lB8EHKU\nC9KN+rKKejvRvxXdt5M3iEjGSuzUZJCQQQiXcgUCgYEAyhPtgGYqzHM6bvMT0rD5\nvvBDE50MGKcq36D/KMYX58bkmwYl3cQTxtV1higHNkSn9FI8hBslzEI3exFfvn0c\npfcbHvazj5BUSltvIqCXwuobUYeWrjUzdH8gGTe36l8XsF6P86eRqcjTiDwmQqYY\nmnCK4Q8VG4wkCnZYLrBAcGM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-g2ltkpqpiueeqfnp5rbsyjdc5g@mafiamirror.iam.gserviceaccount.com",
+  "client_id": "110774846449351792391",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-g2ltkpqpiueeqfnp5rbsyjdc5g%40mafiamirror.iam.gserviceaccount.com"
+}
