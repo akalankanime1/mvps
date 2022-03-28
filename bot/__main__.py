@@ -45,7 +45,7 @@ def stats(update, context):
 
 def start(update, context):
     buttons = button_build.ButtonMaker()
-    buttons.buildbutton("Bot Creator", "https://t.me/akalankanime")
+    buttons.buildbutton("Bot Creator", "https://t.me/akalankanime2")
     buttons.buildbutton("Channel", "https://t.me/DFX_LEECH")
     reply_markup = InlineKeyboardMarkup(buttons.build_menu(2))
     if CustomFilters.authorized_user(update) or CustomFilters.authorized_chat(update):
@@ -56,7 +56,7 @@ Type /{BotCommands.HelpCommand} to get a list of available commands
         sendMarkup(start_string, context.bot, update, reply_markup)
     else:
         sendMarkup(
-            'ඇයි ප#ද බලන්නෙ ගේමද ඉල්ලනෙ කැ#යා අව්වෙ දණගස්සන්නෙ\nමේ වගේ බොටෙක් ඕනෙ නම් මට මැසේජ් එකක් දාන්න <b>@akalankanime</b>.',
+            'ඇයි ප#ද බලන්නෙ ගේමද ඉල්ලනෙ කැ#යා අව්වෙ දණගස්සන්නෙ\nමේ වගේ බොටෙක් ඕනෙ නම් මට මැසේජ් එකක් දාන්න <b>@akalankanime2</b>.',
             context.bot,
             update,
             reply_markup,
@@ -64,7 +64,7 @@ Type /{BotCommands.HelpCommand} to get a list of available commands
 
 
 def restart(update, context):
-    restart_message = sendMessage("Restarting, Please wait!", context.bot, update)
+    restart_message = sendMessage("Restarting, Please wait!\nටිකක් ඉන්ටකෝ", context.bot, update)
     # Save restart message object in order to reply to it after restarting
     with open(".restartmsg", "w") as f:
         f.truncate(0)
@@ -156,7 +156,7 @@ help_string_telegraph = f'''<br>
 help = Telegraph(access_token=telegraph_token).create_page(
         title='Slam Mirrorbot Help',
         author_name='Slam Mirrorbot',
-        author_url='https://github.com/SlamDevs/slam-mirrorbot',
+        author_url='https://github.com/Mafia58/mvps',
         html_content=help_string_telegraph,
     )["path"]
 
@@ -233,7 +233,7 @@ def main():
         os.remove(".restartmsg")
     elif OWNER_ID:
         try:
-            text = "<b>Bot Restarted!</b>"
+            text = "<b>Bot Restarted!\nපුතේ මම ආයෙ නැගිට්ටා බන්</b>"
             bot.sendMessage(chat_id=OWNER_ID, text=text, parse_mode=ParseMode.HTML)
             if AUTHORIZED_CHATS:
                 for i in AUTHORIZED_CHATS:
